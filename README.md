@@ -21,9 +21,9 @@ It’s designed to help developers **kickstart a new NestJS project** with best 
 
 - Nodejs
 
-- Mongodb server, you can setup your local mongodb server by following:
-  <a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noopener noreferrer">
-  Download MongoDB Community Edition
+- Postgres server, you can setup your local postgres server by following:
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+  Download Postgres Server
   </a>
 
 ---
