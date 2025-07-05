@@ -1,4 +1,4 @@
-# 🚀 NestJS MongoDB Boilerplate
+# 🚀 NestJS TypeOrm x PG Boilerplate
 
 This is a **NestJS API Boilerplate** that provides a scalable and modular architecture with **TypeOrm x Postgres DB, JWT authentication, Swagger documentation, Docker support**, and **auto-loading modules**.
 
