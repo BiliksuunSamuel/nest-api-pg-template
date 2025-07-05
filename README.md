@@ -8,7 +8,7 @@ It’s designed to help developers **kickstart a new NestJS project** with best 
 
 ## ⚡ Features
 
-✅ **MongoDB with Mongoose** – Auto-loads schemas from `schemas/`  
+✅ **TypeOrm with PG** – Auto-loads entities from `entities/`  
 ✅ **Authentication** – Supports **JWT-based authentication**  
 ✅ **Swagger API Documentation** – Auto-generates OpenAPI docs  
 ✅ **Auto-load Modules** – Dynamically loads controllers, services, repositories, and schemas  
